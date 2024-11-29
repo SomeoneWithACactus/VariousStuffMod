@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Various Stuff Mod</name>
+    <directory>variousstuffmod</directory>
+    <id>0</id>
+    <description>Hello! This is my first mod ever! It's a very small one, but I really hope you all like it!!!
+
+This mod adds:
+
+-7 New items
+-1 New trinket (LANCER)
+-A few new room until depths
+-And a new playable Character with their tainted!
+(Both Characters are based of my partner oc's! You can find him on twitter as @verdejunkrat on twitter and @verdejunkrat.bsky.social on BlueSky!)
+
+I want to add more content on the future, so, any suggestion or critism about the mod is really appreciated!!!</description>
+    <version>1.0</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Player Characters"/>
+    <tag id="Rooms"/>
+</metadata>

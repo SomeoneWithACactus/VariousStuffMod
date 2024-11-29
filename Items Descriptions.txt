@@ -1,0 +1,56 @@
+---------------ITEMS DESCRIPTIONS-------------------
+
+---------------------ITEMS--------------------------
+
+-Acrylium-
+-On Use: Creates a purple puddle of freezing creep
+
+-On Passive: Gives a 0.45 Damage Up, 0.75 Tears Up and grants Slowing Tears!
+
+
+-The Gift of Creation-
+-On Use:
+*If there is a Charmed Enemy in the room it will create a new permanently charmed enemy based of their own pool of enemies, and it will leave a
+freezing creep where the enemy spawned
+*If there is a boss it will grant a familiar from it's own pool that will remain until the player left the room
+
+(Note: All the Charmed enemies will die upon entering a new floor)
+
+-On Passive: Grants Charming Tears!
+
+
+-D2-
+-On Use: It has a 50% chance of Killing every enemy or boss in the room and a 50% chance of instakilling the player
+
+
+-Evil Skull-
+-It Grants a 1.5 Damage Up
+-Takes away one Heart container
+-Grants two Black hearts
+
+
+-Whole Milk-
+-It Grants a 3.5 Tears Up
+-Gives a 0.25 Speed Down and Shot Speed Down
+
+
+-Cat's Food-
+-Grants two Soul Hearts upon pickup
+-Grants three blue flies when entering a room with enemies
+
+
+-Super Vegeta-
+-Grants a 1.5 Damage Multiplier
+-Gives a 0.65 Speed Down
+
+
+----------------------TRINKETS-----------------------
+
+-LANCER!-
+-Upon entering a new floor spawns one of the three:
+*Two of Spades
+*Ace of Spades
+*Rules Card
+
+
+-----------------------------------------------------
