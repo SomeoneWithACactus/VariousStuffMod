@@ -1,0 +1,5 @@
+<pocketitems>
+    <card description = "Splash your Imagination!" hud="Creativity" name = "Figure of Creativity"/>
+    <card description = "Hold your Ground" hud="Survival" name = "Figure of Survival"/>
+    <card description = "Toughen up!" hud="Endurance" name = "Figure of Endurance"/>
+</pocketitems>

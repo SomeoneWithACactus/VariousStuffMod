@@ -1,0 +1,53 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Rachel"
+        skin="character_rachel.png"
+        nameimage="playername_rachel.png"
+        hp="4"
+        armor="2"
+        keys="2"
+        coins="5"
+        portrait="playerportrait_rachel.png"
+        skinColor="-1"
+        birthright="Acrylium Overflow"
+    />
+
+    <player name="Reiko"
+        skin="character_rachel_b.png"
+        nameimage="playername_rachel_b.png"
+        hp="2"
+        black="4"
+        keys="1"
+        bombs="5"
+        portrait="playerportrait_rachel_b.png"
+        skinColor="-1"
+        bSkinParent="Rachel"
+        costumeSuffix="reiko"
+        costume="104"
+        birthright="The Soul of the Party!"
+    />
+
+    <player name="Maddie"
+        skin="character_maddie.png"
+        nameimage="playername_maddie.png"
+        items="172, 626, 627"
+        canShoot="false"
+        black="4"
+        bombs="2"
+        portrait="playerportrait_maddie.png"
+        skinColor="-1"
+        birthright="KNIVES KNIVES KNIVES"
+    />
+
+    <player name="Maddie_Ghost"
+        skin="character_maddie_ghost.png"
+        nameimage="playername_maddie.png"
+        items="172"
+        black="1"
+        bombs="2"
+        portrait="playerportrait_maddie.png"
+        skinColor="-1"
+        hidden="true"
+        birthright="KNIVES KNIVES KNIVES"
+    />
+</players>
+

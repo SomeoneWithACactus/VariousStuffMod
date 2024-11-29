@@ -1,0 +1,108 @@
+<ItemPools>
+    <!-- TREASURE POOL -->
+    <Pool Name = "treasure">
+
+
+    <Item Name = "Whole Milk" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Acrylium" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Super Vegeta" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "D2" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Starlight Wings" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Spiritual Crap" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Bear's Mask" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+
+    </Pool>
+
+    <!-- SHOP POOL -->
+    <Pool Name = "shop">
+
+
+    <Item Name = "Whole Milk" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "D2" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Spiritual Crap" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Broken Crystal Ball" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Bear's Mask" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Dealmaker" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+
+    </Pool>
+
+    <!-- SECRET ROOM POOL -->
+    <Pool Name = "secret">
+
+
+    <Item Name = "Acrylium" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "The Gift of Creation" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Broken Crystal Ball" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Water Vegeta" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Starlight Wings" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+
+    </Pool>
+
+    <!-- CURSE ROOM POOL -->
+    <Pool Name = "curse">
+
+
+    <Item Name = "EVIL SKULL" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+
+    </Pool>
+
+    <!-- BOSS ROOM POOL -->
+    <Pool Name = "boss">
+
+
+    <Item Name = "Cat's Food" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+
+    </Pool>
+
+    <!-- DEVIL POOL -->
+    <Pool Name = "devil">
+
+
+    <Item Name = "Super Vegeta" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+
+    </Pool>
+
+    <!-- ANGEL POOL -->
+    <Pool Name = "angel">
+
+
+    <Item Name = "The Gift of Creation" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+
+    </Pool>
+
+
+    <Pool Name = "ultrasecret">
+
+
+    <Item Name = "Spiritual Crap" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "Broken Crystal Ball" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+
+    <Item Name = "EVIL SKULL" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+    
+
+    </Pool>
+
+</ItemPools>

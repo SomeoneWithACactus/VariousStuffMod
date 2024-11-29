@@ -1,0 +1,60 @@
+<entities anm2root="gfx/" version="5" deathanm2="gfx/enemy_death_portraits.anm2">
+    
+    <entity anm2path="monsters/001_monster_angrierfly.anm2" reroll="false" baseHP="10" boss="0" champion="0" collisionDamage="1"
+    collisionMass="5" collisionRadius="13" friction="1" id="799" name="Angrier Fly" tags = "fly" numGridCollisionPoints="0" shadowSize="15" stageHP="3"
+    variant="0" portrait="0" bestiary="false">
+
+        <gibs amount="6" blood="1" bone="1" eye="0" gut="1" large="0"/>
+        <devolve id="276.0.0" weight="1"/>
+
+    </entity>
+
+    <entity anm2path="monsters/002_monster_spiderbox.anm2" reroll="false" baseHP="35" boss="0" champion="0" collisionDamage="1"
+    collisionMass="10" collisionRadius="20" friction="1" id="801" name="Spider Box" numGridCollisionPoints="15" shadowSize="0" stageHP="0"
+    variant="0" portrait="1" bestiary="false">
+
+        <gibs amount="6" blood="1" bone="1" eye="0" gut="1" large="0"/>
+        <devolve id="276.0.0" weight="1"/>
+
+    </entity>
+
+     <entity anm2path="monsters/003_monster_firetotem.anm2" reroll="false" baseHP="35" boss="0" champion="0" collisionDamage="0"
+    collisionMass="10" collisionRadius="20" friction="1" id="800" name="Fire Totem" numGridCollisionPoints="15" shadowSize="0" stageHP="0"
+    variant="0" portrait="2" bestiary="false">
+
+        <gibs amount="0" rock_small="1" blood="0" bone="0" eye="0" gut="0" large="0"/>
+        <devolve id="276.0.0" weight="1"/>
+
+    </entity>
+
+    
+
+     <entity anm2path="slots/slot_001_boxbeggar.anm2" reroll="false" baseHP="1" boss="0" champion="0" collisionDamage="0"
+    collisionMass="3" collisionRadius="12" friction="1" id="798" name="Box Beggar" numGridCollisionPoints="24" shadowSize="0" stageHP="0"
+    variant="0" portrait="0" bestiary="false" shutdoors="false">
+        <gibs amount="6" blood="1" bone="4" eye="2" gut="1" large="0"/>
+    </entity>
+
+
+
+    <entity anm2path="pickups/Figure01_Figure_of_Creativity.anm2" reroll="false" baseHP="0" boss="0" champion="0" collisionDamage="0"
+    collisionMass="3" collisionRadius="12" friction="1" id="5" name="Figure of Creativity" numGridCollisionPoints="24" shadowSize="17" stageHP="0"
+    variant="4787" subtype = "1" portrait="0" bestiary="false">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+
+    <entity anm2path="pickups/Figure02_Figure_of_Survival.anm2" reroll="false" baseHP="0" boss="0" champion="0" collisionDamage="0"
+    collisionMass="3" collisionRadius="12" friction="1" id="5" name="Figure of Survival" numGridCollisionPoints="24" shadowSize="17" stageHP="0"
+    variant="4787" subtype = "2" portrait="0" bestiary="false">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+
+    <entity anm2path="pickups/Figure03_Figure_of_Endurance.anm2" reroll="false" baseHP="0" boss="0" champion="0" collisionDamage="0"
+    collisionMass="3" collisionRadius="12" friction="1" id="5" name="Figure of Endurance" numGridCollisionPoints="24" shadowSize="17" stageHP="0"
+    variant="4787" subtype = "3" portrait="0" bestiary="false">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+
+
+</entities>
+

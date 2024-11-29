@@ -1,0 +1,153 @@
+<items gfxroot="gfx/items/" deathanm2 = "gfx/death_items.anm2" version="1">
+
+    <active id="1"
+    name="Acrylium"
+    gfx="item_01_acrylium.png"
+    tags = "syringe offensive"
+    description="Paint the town gray"
+    maxcharges = "105" 
+    chargetype = "timed"
+    quality="3"
+    cache="damage firedelay tearflag"
+    passivecache="true"/>
+
+    <passive id="2"
+    name="EVIL SKULL"
+    gfx="item_02_evilskull.png"
+    description="Damage UP + You feel EVIIILLLL"
+    quality="3"
+    cache="damage" 
+    tags = "offensive"
+    devilprice = "2"
+    maxhearts = "-2"
+    blackhearts = "2"/>
+
+    <passive id="3"
+    name="Whole Milk"
+    gfx="item_03_wholemilk.png"
+    description="Tears UP, Shot Speed DOWN + It's rich in FAT!"
+    tags = "offensive"
+    quality="1"
+    cache="shotspeed speed firedelay"
+    shopprice = "15"/>
+
+    <passive id="4"
+    name="Super Vegeta"
+    gfx="item_04_supervegeta.png"
+    description="POWER with a cost..."
+    tags = "offensive"
+    quality="2"
+    cache="damage speed" 
+    devilprice = "2"
+    blackhearts = "4"/>
+
+    <passive id="5"
+    name="Cat's Food"
+    gfx="item_05_catfood.png"
+    tags = "guppy"
+    description="HP UP + You feel rotten..."
+    quality="2" 
+    soulhearts = "4"/>
+
+    <active id="6"
+    name="D2"
+    gfx="item_06_D2.png"
+    description="Roll a life"
+    tags = "offensive"
+    maxcharges = "2" 
+    quality="0"
+    shopprice = "10"/>
+
+    <active id="8"
+    name="The Gift of Creation"
+    gfx="item_08_giftofcreation.png"
+    tags="angel offensive"
+    description="Paint the world with friends!"
+    maxcharges = "4" 
+    cache="tearflag"
+    quality="4"
+    passivecache="true"/>
+
+    <passive id="9"
+    name="Spiritual Crap"
+    gfx="item_09_spiritualcrap.png"
+    tags="poop offensive"
+    description="Do you really believe in these stuff?" 
+    shopprice = "15"
+    quality="2"/>
+
+    <active id="10"
+    name="Broken Crystal Ball"
+    gfx="item_10_brokencrystalball.png"
+    description="Shattered Future"
+    maxcharges = "6" 
+    tags="stars offensive"
+    quality="3"
+    shopprice = "10"/>
+
+    <passive id="11"
+    name="Water Vegeta"
+    gfx="item_11_watervegeta.png"
+    description="Situational POWER... With no cost!?"
+    tags = "offensive"
+    quality="0"
+    cache="damage speed"/>
+
+    <active id="12"
+    name="Soul Splitter"
+    gfx="item_12_soulsplitter.png"
+    description="Switch Out!"
+    chargetype = "timed"
+    maxcharges = "300" 
+    quality="0"
+    shopprice = "10"/>
+
+    <active id="13"
+    name="Bear's Mask"
+    gfx="item_13_bearsmask.png"
+    description="Hi Freddy!"
+    quality="0"
+    shopprice = "10"
+    cache="range"
+    passivecache="true"/>
+
+    <passive id="14"
+    name="Starlight Wings"
+    gfx="item_14_starlightwings.png"
+    description="8 Hearts! ACCEL!"
+    tags = "stars"
+    quality="2"
+    cache="damage speed" 
+    devilprice = "2"/>
+
+    <passive id="15"
+    name="Dealmaker"
+    gfx="item_15_dealmaker.png"
+    description="[$$$] UP!"
+    tags = "offensive nokeeper"
+    quality="4"
+    shopprice = "17"/>
+
+
+
+    <trinket
+    name="Lancer!"
+    description="Pant hole buddy!"
+    gfx="trinket_01_lancer.png"
+    />
+
+    <trinket
+    name="Broken Pin"
+    description="Protected by nature"
+    gfx="trinket_02_brokenpin.png"
+    />
+
+    <trinket
+    name="Delivery Number"
+    description="with Free Shipping!"
+    gfx="trinket_03_deliverynumber.png"
+    />
+
+
+</items>
+

@@ -1,0 +1,33 @@
+<sounds root="sfx/">
+    <sound name="POWERUP_DB">
+        <sample weight="1" path="sfx_powerup_db.wav"/>
+    </sound>
+
+    <sound name="STARLIGHT_ACTIVATE">
+        <sample weight="1" path="sfx_starlight_activate.wav"/>
+    </sound>
+
+    <sound name="STARLIGHT_GOTHIT">
+        <sample weight="1" path="sfx_starlight_gothit.wav"/>
+    </sound>
+
+    <sound name="BEAR_MASK_ON">
+        <sample weight="1" path="sfx_bearmask_on.wav"/>
+    </sound>
+
+    <sound name="BEAR_MASK_OFF">
+        <sample weight="1" path="sfx_bearmask_off.wav"/>
+    </sound>
+
+    <sound name="GLASS_CLICK">
+        <sample weight="1" path="sfx_glass_click.wav"/>
+    </sound>
+
+    <sound name="DEALMAKER_BIGSHOT">
+        <sample weight="1" path="sfx_dealmaker_nowsyourchance.wav"/>
+    </sound>
+
+    <sound name="DEALMAKER_LAUGHT">
+        <sample weight="1" path="sfx_dealmaker_laugh.wav"/>
+    </sound>
+</sounds>

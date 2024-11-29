@@ -1,0 +1,4 @@
+<data>
+	<entity Group="Chapter 5 (Main Path) Enemies" BaseHP="50" StageHP="0" ID="160" Image="Eicons/boxspider.png" Name="SpiderBox" Variant="1" Subtype="0"/>
+
+</data>

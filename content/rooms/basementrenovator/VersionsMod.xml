@@ -1,0 +1,11 @@
+<data>
+    <version Name="VariousStuffMod">
+        <entities File="EntitiesMod.xml"/>
+    </version>
+    <version Name="Afterbirth+">
+        <version Name="VariousStuffMod"/>
+    </version>
+    <version Name="Repentance">
+        <version Name="VariousStuffMod"/>
+    </version>
+</data>
